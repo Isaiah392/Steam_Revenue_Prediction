@@ -1,0 +1,24 @@
+# Datasets — too large for git
+data/
+
+# Generated outputs
+predicted_steam_revenues.csv
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
